@@ -37,7 +37,7 @@ The objective was to understand the complete CNN pipeline, including image prepr
 ## 🖼️ Sample Predictions
 
 <p align="center">
-<img src="images/predictions.png" width="750">
+<img src="images/predictions.png" width="700">
 </p>
 
 ---
