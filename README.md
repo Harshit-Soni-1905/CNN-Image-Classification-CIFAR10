@@ -80,7 +80,6 @@ cnn-image-classification-cifar10/
 ├── CNN_for_CIFAR10.ipynb
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
@@ -127,16 +126,6 @@ pip install -r requirements.txt
 
 jupyter notebook
 ```
-
----
-
-## 📸 Repository Preview
-
-Replace these with your screenshots.
-
-| Predictions | Accuracy |
-|-------------|----------|
-| ![](images/predictions.png) | ![](images/accuracy.png) |
 
 ---
 
