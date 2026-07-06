@@ -80,6 +80,7 @@ cnn-image-classification-cifar10/
 ├── CNN_for_CIFAR10.ipynb
 ├── requirements.txt
 ├── README.md
+|__LICENSE
 ```
 
 ---
